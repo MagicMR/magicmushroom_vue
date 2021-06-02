@@ -1,0 +1,140 @@
+{
+  "home" : {
+    "hotProduct":[
+      {
+        "imgSrc":"/home/r2.webp",
+        "name": "坚果 R2",
+        "introduction": "是下一代手机，更是下一代电脑",
+        "price":4299
+      },
+      {
+        "imgSrc":"/home/tnt.webp",
+        "name": "Smartisan TNT 大满足套装",
+        "introduction": "是下一代手机，更是下一代电脑",
+        "price":6499
+      },
+      {
+        "imgSrc":"/home/yifu.webp",
+        "name": "2020年足迹系列卫衣 人类首次突破音速",
+        "introduction": "精心剪裁、版型百搭、舒适服帖、易于打理",
+        "price":249
+      },
+      {
+        "imgSrc":"/home/erji.webp",
+        "name": "Smartisan 真无线蓝牙耳机（抖音文创限量",
+        "introduction": "开工大吉 配件直降",
+        "price":229
+      },
+      {
+        "imgSrc":"/home/yifu02.webp",
+        "name": "2020年足迹系列卫衣 3M 开始在市场上销售",
+        "introduction": "精心剪裁、版型百搭、舒适服帖、易于打理",
+        "price":249
+      },
+      {
+        "imgSrc":"/xinglixiang.webp",
+        "name": "地平线 8 号旅行箱",
+        "introduction": "简约设计、德国拜耳 PC 箱体",
+        "price":299
+      },
+      {
+        "imgSrc":"/home/erji.webp",
+        "name": "Smartisan 半入耳式耳机",
+        "introduction": "是下一代手机，更是下一代电脑",
+        "price":29
+      },
+      {
+        "imgSrc":"/home/yingxiang.webp",
+        "name": "smartisan砖式蓝牙小音箱",
+        "introduction": "是下一代手机，更是下一代电脑",
+        "price":75
+      }
+    ],
+    "jianguoR2":{
+      "title": "坚果 R2 及配件",
+      "bigImg":"/home/bigR2.png",
+      "toPath":"/newProduct",
+      "products":[
+        {
+          "imgSrc":"/home/r2.webp",
+          "name":"坚果R2",
+          "price":"3999",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/r2-2.webp",
+          "name":"坚果R2",
+          "price":"4299",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/r2-3.webp",
+          "name":"坚果R2",
+          "price":"6499",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/r2-4.webp",
+          "name":"坚果 R2 足迹系列保护套",
+          "price":"59",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/r2-5.webp",
+          "name":"果 R2 足迹系列保护套 3M 开始销售透明胶",
+          "price":"35",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/r2-6.webp",
+          "name":"坚果 R2 足迹系列保护套 圆珠笔的改进者出生",
+          "price":"59",
+          "toPath":"/newProduct"
+        }
+      ]
+    },
+    "TntProduct":{
+      "title":"Smartisan TNT",
+      "bigImg":"/home/big.webp",
+      "toPath":"/newProduct",
+      "products":[
+        {
+          "imgSrc":"/home/tnt.webp",
+          "name":"Smartisan TNT 大满足套装",
+          "price":"6499",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/tnt-2.webp",
+          "name":"Smartisan TNT 大满足套装",
+          "price":"7699",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/tnt-3.webp",
+          "name":"Smartisan TNT go",
+          "price":"19999",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/tnt-4.webp",
+          "name":"Smartisan TNT go",
+          "price":"2999",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/tnt-5.webp",
+          "name":"Smartisan 智能手写笔",
+          "price":"299",
+          "toPath":"/newProduct"
+        },
+        {
+          "imgSrc":"/home/tnt-6.webp",
+          "name":"Smartisan 手机立式扩展坞",
+          "price":"299",
+          "toPath":"/newProduct"
+        }
+      ]
+    }
+  }
+}
